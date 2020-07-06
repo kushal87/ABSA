@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.495" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+    <PackageReference Include="Microsoft.Net.Http" Version="2.2.29" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Moq" Version="4.14.5" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UserValidation\" />
+    <Folder Include="UserValidation\View\" />
+    <Folder Include="UserValidation\ViewModel\" />
+    <Folder Include="UserDetails\" />
+    <Folder Include="UserDetails\View\" />
+    <Folder Include="UserDetails\ViewModel\" />
+    <Folder Include="UserDetails\Model\" />
+    <Folder Include="UserDetails\Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="UserDetails\View\UserList.xaml.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="View\UserValidation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="UserValidation\View\UserValidation.xaml.cs">
+      <DependentUpon>..\..\View\UserValidation.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

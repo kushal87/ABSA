@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUMSrN8b2btVTkdiCvfyOs653TnTus0+mV0/lPTkv6M1QB5Wepkz1GeeE0rSR5rRrqa03UQn9sTVKCU0b/sfwg==",
+  "success": true,
+  "projectFilePath": "/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA.iOS/ABSA.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kushal/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/microsoft.bcl/1.1.10/microsoft.bcl.1.1.10.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/microsoft.bcl.build/1.0.14/microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/microsoft.net.http/2.2.29/microsoft.net.http.2.2.29.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/moq/4.14.5/moq.4.14.5.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.collections.specialized/4.3.0/system.collections.specialized.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.componentmodel.typeconverter/4.3.0/system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.diagnostics.tracesource/4.3.0/system.diagnostics.tracesource.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.dynamic.runtime/4.3.0/system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.threading.tasks.extensions/4.5.1/system.threading.tasks.extensions.4.5.1.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/kushal/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

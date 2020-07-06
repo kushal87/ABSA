@@ -1,0 +1,15 @@
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/bin/Debug/netstandard2.0/ABSA.deps.json
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/bin/Debug/netstandard2.0/ABSA.dll
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/bin/Debug/netstandard2.0/ref/ABSA.dll
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/bin/Debug/netstandard2.0/ABSA.pdb
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/ABSA.csprojAssemblyReference.cache
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/ABSA.AssemblyInfoInputs.cache
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/ABSA.AssemblyInfo.cs
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/ABSA.csproj.CoreCompileInputs.cache
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/ABSA.dll
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/ref/ABSA.dll
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/ABSA.pdb
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/UserValidation/View/UserValidation.xaml.g.cs
+/Users/kushal/Desktop/Kushal/Xamarin/ABSA/ABSA/obj/Debug/netstandard2.0/UserDetails/View/ABSAUsers.xaml.g.cs
